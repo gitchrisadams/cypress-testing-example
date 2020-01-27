@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "video": false,
+    "pageLoadTimeout": 1200000,
+    "waitForAnimations": false
+}
